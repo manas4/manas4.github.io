@@ -7,11 +7,7 @@
  4. Categorization
  5. Emojis Support
  6. Highly optimized blog
-     #### PageSpeed Insights
-     * [Home](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Ftherohitjain.com)[(therohitjain.com)](https://therohitjain.com)
-     * [Blog](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Ftherohitjain.com/blog/)[(therohitjain.com/blog/)](https://therohitjain.com/blog/)
-     * [About](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Ftherohitjain.com/about/)[(therohitjain.com/about/)](https://therohitjain.com/about/)
-
+    
 
 ## Desktop Preview
 
